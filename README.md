@@ -30,5 +30,5 @@ Open winscp_upload.bat with a text editor and replace following placeholders:
 ------------
 ### If you want to automate your uploads you can create a scheduled task in Windows:
  - Run ```taskschd.msc``` and create a new task. On the actions tab create a new action and refer to the ```winscp_upload.bat``` file. In the ```Start in (optional)``` field type the path to the folder where your batch is located at (If you batch is at ```C:\scripts\winscp_upload.bat``` then your ```Start in (optional)``` parameter is ```C:\scripts\```)!
- - 
+ 
 > If you don't know how to create and configure a task in Windows, you can read this article: https://www.digitalcitizen.life/how-create-task-basic-task-wizard
