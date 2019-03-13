@@ -1,0 +1,4 @@
+C:\path\to\your\file.txt
+C:\path\to\your\other\file.exe
+C:\path\to\your\third\file.html
+D:\path\to\another\file.ini
