@@ -12,8 +12,8 @@ How to setup WinSCP to upload files to FTP/SFTP server via command line
 
 Step 2: Download script files
 ------------
- - Download [winscp_upload.bat](https://github.com/DPelz/WinSCP-FTP-upload/blob/master/winscp_upload.bat) from this repo.
- - Download [uploadlist.txt](https://github.com/DPelz/WinSCP-FTP-upload/blob/master/uploadlist.txt) from this repo.
+ - Download [winscp_upload.bat](https://github.com/r00tusrDE/WinSCP-FTP-upload/blob/master/winscp_upload.bat) from this repo.
+ - Download [uploadlist.txt](https://github.com/r00tusrDE/WinSCP-FTP-upload/blob/master/uploadlist.txt) from this repo.
  > You can save these files where you want (e.g. C:\scripts\). Just make sure both files are stored in the same folder and you remember the path.
 
 Step 3: Edit script files
